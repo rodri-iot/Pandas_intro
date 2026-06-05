@@ -1,0 +1,6 @@
+st_cod,estado_visible,es_final
+1,Nuevo,False
+2,Asignado,False
+3,En curso,False
+4,Resuelto,True
+5,Cerrado,True
